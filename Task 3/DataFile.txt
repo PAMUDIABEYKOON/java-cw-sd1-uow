@@ -1,0 +1,44 @@
+Cabin 1
+
+     Passenger 1
+     First name: jenna
+     Surname: mark
+     Expenses: $45
+
+Cabin 2
+
+     Passenger 1
+     First name: jenna
+     Surname: mark
+     Expenses: $45
+
+Cabin 3
+No passengers
+
+Cabin 4
+No passengers
+
+Cabin 5
+No passengers
+
+Cabin 6
+No passengers
+
+Cabin 7
+No passengers
+
+Cabin 8
+No passengers
+
+Cabin 9
+No passengers
+
+Cabin 10
+No passengers
+
+Cabin 11
+No passengers
+
+Cabin 12
+No passengers
+
